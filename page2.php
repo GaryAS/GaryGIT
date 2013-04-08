@@ -17,6 +17,8 @@ include_once('header.php');
 
 		<br /><br />
 
+		<p>Live Demo to SeEng:</p>
+
 		<p>now we have a basic understanding of the overall GiT workflow, 
 		we can take each element in turn and work through the basic 
 		operations. If you think of this more as a circular process 

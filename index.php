@@ -111,7 +111,7 @@ include_once('header.php');
 			<p>Branching is a brilliant feature, you can develop changes in 
 			a branch and test them, just like using your local master. 
 			If they work, you merge them to your local master, if they 
-			don’t you just rollback or throw them away and try again, 
+			don’t you just roll-back or throw them away and try again, 
 			so changes to master only come about when the co-ord is 
 			satisfied with the changes. You can branch as many times 
 			as you like and have as many open as you like. However, 
