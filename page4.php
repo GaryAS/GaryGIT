@@ -13,7 +13,7 @@ include_once('header.php');
 
 <div id='mainContent'>
 
-		<h1>Pushing to Your Remote Repository</h1>
+		<h1> NEW Pushing to Your Remote Repository</h1>
 
 		<br /><br />
 
