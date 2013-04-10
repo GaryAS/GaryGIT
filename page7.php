@@ -21,6 +21,8 @@ include_once('header.php');
 
 		<h3>THIS IS A NEW FILE</h3>
 
+			<h3>TEST</h3>
+
 		<p>	You work in the terminal to use and control GiT.
 			The first task is to point you login to the directory
 			you want to work in. GiT must be initilised there first, 
