@@ -17,6 +17,9 @@ include_once('header.php');
 
 		<br /><br />
 
+		<p>Commit and push</p>
+
+
 		<p>Branching is a difficult concept to explain, but very powerful
 		and easy to use once you've grasped the basics. Essentially
 		it lets you divert the commit path, leaving intact the master
